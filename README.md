@@ -20,8 +20,8 @@ export GOOGLE_CLOUD_LOCATION=
 
 ## Query metadata filter retrieve
 ```shell
-# Will create query_metadata_filters.json
-python query_metadata_filters_retrieve.py
+# Will create query_fin_metadata_filters.json
+python fin_meta.py
 ```
 ## Create and retrieve relevant evidence from vector index
 ```shell
